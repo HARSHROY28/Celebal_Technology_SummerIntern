@@ -33,7 +33,8 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/HARSHROY28/titanic-survival-prediction.git
+git clone https://github.com/HARSHROY28/Celebal_Technology_SummerIntern
+.git
 cd titanic-survival-prediction
 Run the preprocessing script:
 
